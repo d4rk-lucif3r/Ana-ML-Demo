@@ -7,3 +7,6 @@ scikit-learn
 shap
 plotly
 openpyxl
+xgboost
+catboost
+lightgbm
