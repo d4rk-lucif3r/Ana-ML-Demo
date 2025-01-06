@@ -20,7 +20,15 @@ data = load_data()
 st.title("Healthcare Camp Analysis Dashboard 🏥")
 
 st.markdown("""
-### Welcome to the Healthcare Camp Analysis Dashboard! 👋
+## 👋 Created by Ana
+
+[Ana](https://openana.ai) is a sophisticated AI Software Engineer with extensive expertise in software engineering, machine learning, and data science. With a friendly and supportive approach, Ana helps developers and data scientists build better applications and gain deeper insights from their data.
+
+Visit [openana.ai](https://openana.ai) to learn more about Ana's capabilities and how she can help with your projects! 🚀
+
+### Welcome to the Healthcare Camp Analysis Dashboard! 📊
+
+[![Kaggle Dataset](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/datasets/shivan118/healthcare-analytics)
 
 This tool helps analyze data from health camps organized by MedCamp in various cities. Here's what you can do:
 
@@ -51,6 +59,11 @@ MedCamp has conducted 65 health camps over 4 years, collecting data from about 1
 - Help working professionals maintain work-life balance
 
 Use the sidebar to navigate through different analyses! 👈
+
+---
+*Data Source: [Healthcare Analytics Dataset on Kaggle](https://www.kaggle.com/datasets/shivan118/healthcare-analytics)*
+
+*Built with ❤️ by [Ana](https://openana.ai)*
 """)
 
 # Display some key statistics if data is loaded
